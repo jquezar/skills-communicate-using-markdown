@@ -5,6 +5,11 @@
 ##### o no tanto
 ###### en realidad nada de bien
 
+- [x] tarea 1
+- [x] tarea 2
+- [x] tarea 3
+- [ ] tarea 4  
+
 
 ![imagen para este index](https://image-cdn.neatoshop.com/styleimg/40807/none/sand/default/303450-20;1627414072y.jpg)
 
